@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AstrumQ</string>
+    <string name="reg_nick">Nick</string>
+    <string name="reg_name">Name</string>
+    <string name="reg_surname">Surname</string>
+    <string name="reg_email">Email</string>
+    <string name="reg_pass">Password</string>
+    <string name="reg_action">Register</string>
+    <string name="reg_title">Registration</string>
+    <string name="log_email">Email</string>
+    <string name="log_action_register">Register</string>
+    <string name="log_action_login">Login</string>
+    <string name="log_password">Password</string>
+</resources>
